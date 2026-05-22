@@ -36,9 +36,9 @@ Capital Adequacy
 Workforce & Efficiency  
 
 
-🎯 6. Skills Demonstrated
-Professional dashboard design
-Data modeling and transformation
-KPI development with DAX
-Visual storytelling for management
-Financial interpretation
+🎯 6. Skills Demonstrated:
+Professional dashboard design  
+Data modeling and transformation  
+KPI development with DAX  
+Visual storytelling for management  
+Financial interpretation  
