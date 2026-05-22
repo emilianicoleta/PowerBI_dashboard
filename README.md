@@ -17,23 +17,23 @@ The data source is MarketScreener.com: https://www.marketscreener.com/quote/stoc
 
 
 ⭐🏗 4. Data Model
-The Power BI data model includes:
-•	Fact tables (Income Statement, Balance Sheet, Cash Flow, Financial Ratios, Employees)
-•	Dimensional tables (Years)
-•	DAX measures for KPIs and financial ratios
+The Power BI data model includes:  
+•	Fact tables (Income Statement, Balance Sheet, Cash Flow, Financial Ratios, Employees)  
+•	Dimensional tables (Years)  
+•	DAX measures for KPIs and financial ratios  
 
 The model is optimized for clarity, performance and semantic consistency.
 
 
 📈 5. Dashboard Structure
-The dashboard is organized into five pages:
-Executive Overview – Key KPIs and annual trends for the period 2016 - 2025
-Profitability & Income 
-Balance Sheet Structure 
-Asset Quality & Risk 
-Cash Flow & Liquidity 
-Capital Adequacy
-Workforce & Efficiency
+The dashboard is organized into five pages:  
+Executive Overview – Key KPIs and annual trends for the period 2016 - 2025  
+Profitability & Income  
+Balance Sheet Structure  
+Asset Quality & Risk  
+Cash Flow & Liquidity  
+Capital Adequacy  
+Workforce & Efficiency  
 
 
 🎯 6. Skills Demonstrated
