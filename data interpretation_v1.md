@@ -2,7 +2,7 @@
 
 1) Card Charts only for the year 2025
 - Net Income  
-Societe Generale closes 2025 with a Net Income of €6.0 billion, marking a strong recovery phase after the volatility observed in 2020–2022. This level of profitability reflects improved operational efficiency and a more favorable macro‑financial environment.
+Societe Generale closes 2025 with a Net Income of €6 billion, marking a strong recovery phase after the volatility observed in 2020–2022. This level of profitability reflects improved operational efficiency and a more favorable macro‑financial environment.
 
 - Total Revenues  
 Total Revenues reach €25.78 billion, continuing the upward trajectory from 2021 onward. The bank consolidates its revenue base through both interest‑related and fee‑based activities.
