@@ -1,4 +1,4 @@
-Executive Overview - Page 1 from the dashboard
+⭐ Executive Overview - Page 1 from the dashboard
 
 1) Card Charts only for the year 2025
 - Net Income  
@@ -53,9 +53,9 @@ In 2025, the bank’s revenue structure remains well‑balanced:
 
 Interpretation:    
 Non‑interest income accounts for roughly two‑thirds of total revenues, highlighting the bank’s diversified business model and reduced dependence on interest‑rate cycles. This composition is typical for large universal banks with strong fee‑based and market‑related activities.
-
- 
-Profitability & Income - Page 2 from the dashboard
+<br><br>
+<br><br>
+⭐ Profitability & Income - Page 2 from the dashboard
 
 1) Stacked Column Chart with the indicators Net Interest and Non‑Interest Income (period 2016–2025)
 
