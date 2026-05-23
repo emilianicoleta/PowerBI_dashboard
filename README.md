@@ -16,7 +16,7 @@ The data source is MarketScreener.com: https://www.marketscreener.com/quote/stoc
 🔎 3. Calculated financial KPIs: Net Income, Total Revenues, Return on Equity, Return on Assets, Net Interest Margin Share %, Loan‑to‑Deposit Ratio, Non‑Performing Loans Ratio, Coverage Ratio, Tier 1 Capital Ratio, Total Capital Ratio, Equity Ratio, Revenue and Profit per Employee, Year‑over‑Year Growth for major indicators.
 
 
-⭐🏗 4. Data Model
+⭐ 4. Data Model
 The Power BI data model includes:  
 •	Fact tables (Income Statement, Balance Sheet, Cash Flow, Financial Ratios, Employees)  
 •	Dimensional tables (Years)  
