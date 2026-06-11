@@ -1,0 +1,64 @@
+Executive Overview – Page 1 from the dashboard
+
+In 2025, Société Générale delivers one of its strongest performances of the decade, supported by a resilient revenue base, solid profitability, robust capital and liquidity positions. Net Income reaches €6 billions, marking a significant recovery after the pandemic and confirming the bank’s restored earnings capacity. Total Revenues rise to €25.78 billions, driven primarily by Non‑Interest Income (€17.18 billions), which accounts for 63% of the 2025 revenue mix. This shift toward fee‑based and market‑related income is reflected in the Revenue Composition chart and highlights a structurally diversified earnings model.
+Profitability ratios show a clear upward trend. Return on Assets (ROA) increases to 0.45%, the highest level in the period 2016-2025, while Return on Equity (ROE) strengthens to 8.84%, supported by higher net income and stable equity growth. The decade‑long trends in ROA and ROE confirm a sustained improvement in operational efficiency and balance sheet utilization.
+The bank Société Générale maintains a strong liquidity position, with a Loan‑to‑Deposit Ratio of 74.6% in 2025 — well below 100% and indicative of a conservative funding profile. Deposits remain the core funding source, while loan volumes have moderated in recent years, easing pressure on liquidity buffers.
+Capital adequacy remains a key strength. The Tier 1 Capital Ratio stands at 16.01% and the Total Capital Ratio at 18.57%, both comfortably above regulatory minimums (6% and 8%, respectively). These levels reflect prudent risk‑weighted asset management, consistent internal capital generation, and a stable equity base. 
+Overall, the dashboard shows a bank that enters the year 2025 with solid profitability, diversified revenues, strong capital buffers and a conservative liquidity profile. The combined trends across income, efficiency, funding, and capital metrics point to a resilient and well‑positioned institution, capable of supporting growth while maintaining robust financial stability.
+
+
+Profitability & Income - Page 2 from the dashboard
+
+The bank’s profitability profile over 2016-2025 reflects a resilient and diversified income structure, with a clear shift toward non‑interest income as the primary revenue driver. In 2025, Non‑Interest Income reaches €17.18 billions, significantly exceeding Net Interest Income of €10.07 billions, resulting in a Net Interest Margin Share of 39.06 %. This confirms that the bank’s earnings base is no longer dominated by traditional lending margins but is instead supported by fee‑based and market‑related activities, which provide greater stability during periods of interest rate volatility.
+The long‑term trend in revenues and expenses highlights a strong post‑pandemic recovery. Total revenues, which fell to €18.83 billions in 2020, rebound sharply to €25.78 billions in 2025, driven primarily by the recovery in non‑interest income. At the same time, operating expenses decline from their 2023 peak, reaching €17.32 billions in 2025, which widens the operating margin and strengthens profitability. The growing gap between revenues and expenses in the final years of the period 2016 - 2025 signals improving cost efficiency and operational discipline.
+The financial performance waterfall further illustrates this dynamic for the year 2025: starting from Total Revenues of €25.78 billions, Société Générale generates EBT of €8.46 billions and achieves Net Income of €6 billions, one of the strongest results in the decade. This performance reflects both the recovery in income streams and the bank’s ability to contain costs while maintaining stable credit quality.
+Overall, Page 2 shows a bank that has successfully rebuilt profitability, supported by a diversified revenue structure, improving cost efficiency, and strong earnings momentum heading into the year 2025.
+
+
+Balance Sheet Structure - Page 3 from the dashboard
+
+The balance sheet of the year 2025 shows a traditional, loan‑driven asset structure, with Net Loans (€445 billions) representing the largest share of total assets (€1,547 billions). Despite moderate fluctuations over the decade, Société Générale maintains a stable credit portfolio, supported by consistent asset growth and a conservative provisioning policy. Cash and other assets complement the structure, but lending remains the core activity shaping the balance sheet. 
+On the liabilities side, customer deposits continue to be the dominant funding source, reaching €609 billions in 2025, and forming the foundation of the bank’s funding model. Short-term borrowings (€128 billions) indicate a reduced reliance on wholesale funding, while long-term debt (€103 billions) contributes to a balanced maturity profile. Other liabilities remain substantial, while equity amounts to €79.53 billions, reinforcing the capital position of the bank Société Générale. 
+The Loan‑to‑Deposit Ratio (LDR) shows a clear improving trend, decreasing from 88.4% in 2016 to 74.6% in 2025. This reflects stronger liquidity, healthier funding dynamics, and a more conservative balance sheet stance. At the same time, the Equity Ratio gradually strengthens - from 4.75% in 2016 to 5.14% in  2025 - supported by retained earnings and moderate asset growth. Together, these trends indicate a more resilient and better‑capitalized balance sheet, aligned with prudent risk management and regulatory expectations.
+Overall, Société Générale enters 2025 with a solid balance sheet structure, characterized by a stable loan portfolio, deposit‑anchored funding, improving liquidity metrics, and a strengthening capital base.
+
+
+Asset Quality & Risk - Page 4 from the dashboard
+
+The asset quality profile of the bank Société Générale over 2016 - 2025 shows a long‑term improvement in credit risk, supported by a declining NPL ratio and a consistently strong coverage position, despite cyclical fluctuations in loan growth and provisioning needs.
+The NPL ratio decreased steadily from 5.7% in 2016 to a low of 2.99% in 2024, before stabilizing at 3.04% in 2025.
+This trajectory reflects: 
+•	structural improvement in credit underwriting and post‑crisis portfolio cleanup (2016 - 2019).
+•	a temporary uptick in the period 2020-2021 from 3.73% to 3.27% - consistent with the pandemic‑related stress.
+•	a return to a level close to 3% by 2024, indicating a resilient loan portfolio and effective risk management. 
+Overall, the NPL ratio remains well below pre‑2020 levels, signaling a healthier credit portfolio and reduced default risk.
+The coverage ratio remained consistently high, fluctuating within a narrow band of 60%–69% throughout the period. The coverage ratio peaked at 69.21% in 2020, reflecting heightened provisioning during the pandemic. It gradually normalized to 61% in 2025, still comfortably above the 60% threshold typically viewed as prudent for a well-diversified retail‑corporate portfolio. The stable coverage levels indicate that the bank Société Générale maintained robust loss‑absorption capacity, even as NPLs declined.
+The combination of low NPLs and strong coverage signals a conservative provisioning policy and a solid buffer against unexpected credit losses.
+The bar chart highlights the interaction between loan growth and provisioning levels. Gross loans expanded from €419 billions in 2016 to a peak of €505 billions in 2022, followed by a gradual decline to €455 billions in 2025. Allowance for loan losses decreased steadily from €14.85 billions in 2016 to €8.44 billions in 2025, mirroring the improvement in asset quality. The reduction in allowances is consistent with the declining NPL ratio, indicating fewer impaired exposures and lower expected credit losses.
+The alignment between declining allowances and improving credit metrics confirms that the bank’s provisioning levels are risk‑sensitive and proportionate to portfolio quality.
+Taken together, the three visuals show a coherent and positive credit‑risk story. NPLs declined significantly over the decade. Coverage remained strong, ensuring resilience even during stress periods. Allowances decreased in line with lower credit risk, without compromising prudential buffers. Gross loans show a mature credit cycle: expansion until the year 2022, followed by a controlled contraction.
+The bank Société Générale enters 2025 with a cleaner loan portfolio, adequate provisioning, and reduced credit‑risk volatility, supporting a stable risk profile and improved capital efficiency.
+
+
+Liquidity & Funding - Page 5 from the Dashboard
+
+The bank’s liquidity and funding profile over 2016-2025 reflects a transition from a period of exceptional liquidity strength to a more normalized environment. Cash & Equivalents rise sharply during 2020-2023, driven by pandemic‑related liquidity inflows and conservative balance sheet management, but decline significantly in 2024-2025 as operating and investing cash flows turn negative. This results in a lower liquidity buffer, though still within a comfortable range relative to total assets.
+Funding remains firmly anchored in customer deposits, which continue to represent the core liability component. After strong growth through 2022, deposits contract moderately in the following years, consistent with the broader reduction in liquidity across the system. Short‑term borrowings decline steadily over the decade, reducing reliance on wholesale markets, while long‑term debt increases, contributing to a more balanced funding maturity profile.
+The relationship between Operating Cash Flow and Net Income highlights volatility in cash generation, driven primarily by changes in operating assets rather than profitability. Despite strong earnings in 2025, negative OCF and ICF lead to a substantial reduction in cash balances.
+Overall, Page 5 shows a bank that remains liquid, deposit‑funded, and conservatively positioned, but experiencing a normalization of liquidity buffers after several years of unusually strong cash accumulation.
+
+
+Capital Adequacy - Page 6 from the Dashboard
+
+The bank’s capital position over 2016-2025 is characterized by strong, stable, and consistently compliant capital ratios, well above regulatory requirements. Tier 1 Capital Ratio remains between 13.50% and 16.29%, ending 2025 at 16.01%, more than double the 6% minimum. This reflects a solid core capital base and effective internal capital generation.
+Similarly, the Total Capital Ratio stays robust throughout the decade, ranging from 16.60% to 19.34%, and reaching 18.57% in 2025, comfortably above the 8% minimum. These levels indicate that the bank Société Générale maintains significant capital buffers, providing resilience against potential credit, market, or operational shocks. 
+The stability of both ratios, even during periods of economic stress such as the pandemic from the year 2020, highlights prudent balance sheet management, disciplined risk‑weighted asset growth, and consistent profitability in most years. The gradual increase in equity - from €65.7 billions in 2016 to €79.5 billions in 2025 - further supports the strengthening of the capital base.
+Overall, Page 6 shows a bank with strong capital adequacy, well‑positioned to absorb losses, support lending activity, and meet regulatory expectations with a comfortable margin.
+
+
+Workforce & Efficiency - Page 7 from the Dashboard
+
+The bank’s workforce and efficiency profile over 2016-2025 reflects a decade‑long transformation toward a leaner and more productive operating model. Total headcount declines from 131,000 to 110,620, with negative employee growth in most years after 2018. This reduction is consistent with industry‑wide digitalization, automation, and restructuring efforts aimed at improving operational efficiency.
+Despite the shrinking workforce, the bank Société Générale achieves significant productivity improvements. Revenue per Employee rises from 0.185 in 2016 to 0.253 in 2025, supported by stronger revenues and a more efficient organizational structure. The medium‑term growth indicator (3Y CAGR) turns positive in the final years, confirming a sustained upward trend in operational productivity.
+Financial efficiency strengthens even more visibly. Profit per Employee, which dipped into negative territory during the 2020 pandemic shock, rebounds sharply and reaches its highest level in 2025. The positive 3Y CAGR in the last part of the period reflects improved profitability, cost discipline, and the benefits of a streamlined workforce.
+Overall, Page 7 shows a bank that has successfully enhanced its operational and financial efficiency, leveraging digital transformation and disciplined cost management to achieve higher productivity with a smaller workforce.
